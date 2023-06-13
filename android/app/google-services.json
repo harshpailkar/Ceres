@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924706528431",
+    "project_id": "epic-407bd",
+    "storage_bucket": "epic-407bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924706528431:android:edddd6d131e18669b3c85a",
+        "android_client_info": {
+          "package_name": "com.example.epic_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924706528431-cio3qdelc0rabhiplt8qo90g9egtvg8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2jajRQr7OLB3dM7h4V6kC0VxheRE888"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924706528431-cio3qdelc0rabhiplt8qo90g9egtvg8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
